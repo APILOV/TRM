@@ -2,3 +2,7 @@
     font-family: ESR;
     src: url(../fonts/EuclidSquare-Regular.ttf);
 }
+@font-face {
+    font-family: ESB;
+    src: url(../fonts/EuclidSquare-Bold.ttf);
+}
